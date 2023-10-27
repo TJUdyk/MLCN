@@ -39,7 +39,8 @@ Our project references the codes in the following repos:
 
 ## :love_letter: Acknowledgement
 This paper adopted the main code bases from [renet](https://github.com/dahyun-kang/renet).
-I also sincerely thank Min Zhang, for valuable suggestions. 
+
+I also sincerely thank Min Zhang. 
 
 
 ## :scroll: Citing MLCN
